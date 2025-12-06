@@ -30,7 +30,6 @@ cc_defaults {
         "odrefresh.cc",
         "odr_common.cc",
         "odr_compilation_log.cc",
-        "odr_fs_utils.cc",
         "odr_metrics.cc",
     ],
     local_include_dirs: ["include"],
